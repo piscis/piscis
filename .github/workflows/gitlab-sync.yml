@@ -1,8 +1,16 @@
 name: GitlabSync
 
 on:
-  - push
-  - delete
+  push:
+    branches:
+      - main
+  delete:
+    branches:
+      - main
+  workflow_run:
+    workflows: ["GitHub Activity Readme"]
+    types:
+      - completed
 
 jobs:
   sync:
