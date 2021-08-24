@@ -63,6 +63,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#123](https://github.com/konvajs/vue-konva/issues/123) in [konvajs/vue-konva](https://github.com/konvajs/vue-konva)
+2. 🗣 Commented on [#279](https://github.com/OneSignal/OneSignal-WordPress-Plugin/issues/279) in [OneSignal/OneSignal-WordPress-Plugin](https://github.com/OneSignal/OneSignal-WordPress-Plugin)
+3. 💪 Opened PR [#280](https://github.com/OneSignal/OneSignal-WordPress-Plugin/pull/280) in [OneSignal/OneSignal-WordPress-Plugin](https://github.com/OneSignal/OneSignal-WordPress-Plugin)
+4. ❗️ Opened issue [#279](https://github.com/OneSignal/OneSignal-WordPress-Plugin/issues/279) in [OneSignal/OneSignal-WordPress-Plugin](https://github.com/OneSignal/OneSignal-WordPress-Plugin)
 <!--END_SECTION:activity-->
 
 </details>
