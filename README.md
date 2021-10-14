@@ -63,10 +63,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#813](https://github.com/polylang/polylang/issues/813) in [polylang/polylang](https://github.com/polylang/polylang)
-2. 💪 Opened PR [#16](https://github.com/wp-languages/wp-languages.github.io/pull/16) in [wp-languages/wp-languages.github.io](https://github.com/wp-languages/wp-languages.github.io)
-3. 🗣 Commented on [#123](https://github.com/konvajs/vue-konva/issues/123) in [konvajs/vue-konva](https://github.com/konvajs/vue-konva)
-4. 🗣 Commented on [#279](https://github.com/OneSignal/OneSignal-WordPress-Plugin/issues/279) in [OneSignal/OneSignal-WordPress-Plugin](https://github.com/OneSignal/OneSignal-WordPress-Plugin)
+1. ❗️ Opened issue [#719](https://github.com/posva/pinia/issues/719) in [posva/pinia](https://github.com/posva/pinia)
+2. 🗣 Commented on [#813](https://github.com/polylang/polylang/issues/813) in [polylang/polylang](https://github.com/polylang/polylang)
+3. 💪 Opened PR [#16](https://github.com/wp-languages/wp-languages.github.io/pull/16) in [wp-languages/wp-languages.github.io](https://github.com/wp-languages/wp-languages.github.io)
+4. 🗣 Commented on [#123](https://github.com/konvajs/vue-konva/issues/123) in [konvajs/vue-konva](https://github.com/konvajs/vue-konva)
 <!--END_SECTION:activity-->
 
 </details>
