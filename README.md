@@ -64,9 +64,9 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11165](https://github.com/quasarframework/quasar/issues/11165) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
-2. ❗️ Opened issue [#11165](https://github.com/quasarframework/quasar/issues/11165) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
-3. ❗️ Opened issue [#719](https://github.com/posva/pinia/issues/719) in [posva/pinia](https://github.com/posva/pinia)
-4. 🗣 Commented on [#813](https://github.com/polylang/polylang/issues/813) in [polylang/polylang](https://github.com/polylang/polylang)
+2. 🗣 Commented on [#11165](https://github.com/quasarframework/quasar/issues/11165) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
+3. ❗️ Opened issue [#11165](https://github.com/quasarframework/quasar/issues/11165) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
+4. ❗️ Opened issue [#719](https://github.com/posva/pinia/issues/719) in [posva/pinia](https://github.com/posva/pinia)
 <!--END_SECTION:activity-->
 
 </details>
