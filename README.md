@@ -63,10 +63,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11165](https://github.com/quasarframework/quasar/issues/11165) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
-2. 🗣 Commented on [#11165](https://github.com/quasarframework/quasar/issues/11165) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
-3. ❗️ Opened issue [#11165](https://github.com/quasarframework/quasar/issues/11165) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
-4. ❗️ Opened issue [#719](https://github.com/posva/pinia/issues/719) in [posva/pinia](https://github.com/posva/pinia)
+1. ❌ Closed PR [#1](https://github.com/piscis/duplicate-post/pull/1) in [piscis/duplicate-post](https://github.com/piscis/duplicate-post)
+2. 💪 Opened PR [#215](https://github.com/Yoast/duplicate-post/pull/215) in [Yoast/duplicate-post](https://github.com/Yoast/duplicate-post)
+3. 💪 Opened PR [#1](https://github.com/piscis/duplicate-post/pull/1) in [piscis/duplicate-post](https://github.com/piscis/duplicate-post)
+4. 🗣 Commented on [#11165](https://github.com/quasarframework/quasar/issues/11165) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
 <!--END_SECTION:activity-->
 
 </details>
