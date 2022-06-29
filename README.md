@@ -63,8 +63,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/samatechtw/nx-vue3-vite/issues/41) in [samatechtw/nx-vue3-vite](https://github.com/samatechtw/nx-vue3-vite)
-2. 🗣 Commented on [#41](https://github.com/samatechtw/nx-vue3-vite/issues/41) in [samatechtw/nx-vue3-vite](https://github.com/samatechtw/nx-vue3-vite)
+1. 🗣 Commented on [#215](https://github.com/Yoast/duplicate-post/issues/215) in [Yoast/duplicate-post](https://github.com/Yoast/duplicate-post)
+2. 🗣 Commented on [#215](https://github.com/Yoast/duplicate-post/issues/215) in [Yoast/duplicate-post](https://github.com/Yoast/duplicate-post)
 3. 🗣 Commented on [#11165](https://github.com/quasarframework/quasar/issues/11165) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
 4. 🗣 Commented on [#886](https://github.com/nuxt/framework/issues/886) in [nuxt/framework](https://github.com/nuxt/framework)
 <!--END_SECTION:activity-->
