@@ -64,8 +64,8 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#140](https://github.com/stayallive/wp-sentry/issues/140) in [stayallive/wp-sentry](https://github.com/stayallive/wp-sentry)
-2. 🗣 Commented on [#11165](https://github.com/quasarframework/quasar/issues/11165) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
-3. 🗣 Commented on [#215](https://github.com/Yoast/duplicate-post/issues/215) in [Yoast/duplicate-post](https://github.com/Yoast/duplicate-post)
+2. 🗣 Commented on [#140](https://github.com/stayallive/wp-sentry/issues/140) in [stayallive/wp-sentry](https://github.com/stayallive/wp-sentry)
+3. 🗣 Commented on [#11165](https://github.com/quasarframework/quasar/issues/11165) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
 4. 🗣 Commented on [#215](https://github.com/Yoast/duplicate-post/issues/215) in [Yoast/duplicate-post](https://github.com/Yoast/duplicate-post)
 <!--END_SECTION:activity-->
 
