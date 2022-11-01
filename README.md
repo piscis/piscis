@@ -63,10 +63,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/piscis/ntn-boilerplate/pull/7) in [piscis/ntn-boilerplate](https://github.com/piscis/ntn-boilerplate)
-2. 🗣 Commented on [#7](https://github.com/piscis/ntn-boilerplate/issues/7) in [piscis/ntn-boilerplate](https://github.com/piscis/ntn-boilerplate)
-3. 💪 Opened PR [#7](https://github.com/piscis/ntn-boilerplate/pull/7) in [piscis/ntn-boilerplate](https://github.com/piscis/ntn-boilerplate)
-4. 🗣 Commented on [#6](https://github.com/piscis/ntn-boilerplate/issues/6) in [piscis/ntn-boilerplate](https://github.com/piscis/ntn-boilerplate)
+1. 🗣 Commented on [#8](https://github.com/piscis/ntn-boilerplate/issues/8) in [piscis/ntn-boilerplate](https://github.com/piscis/ntn-boilerplate)
+2. 🎉 Merged PR [#7](https://github.com/piscis/ntn-boilerplate/pull/7) in [piscis/ntn-boilerplate](https://github.com/piscis/ntn-boilerplate)
+3. 🗣 Commented on [#7](https://github.com/piscis/ntn-boilerplate/issues/7) in [piscis/ntn-boilerplate](https://github.com/piscis/ntn-boilerplate)
+4. 💪 Opened PR [#7](https://github.com/piscis/ntn-boilerplate/pull/7) in [piscis/ntn-boilerplate](https://github.com/piscis/ntn-boilerplate)
 <!--END_SECTION:activity-->
 
 </details>
