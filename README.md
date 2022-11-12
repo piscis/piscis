@@ -9,6 +9,7 @@ I'm Alex - I love building web-based applications in general all about PHP, Type
 
 - 🌱 I’m currently learning stuff about VueJS, Nuxt3 and Typescript 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working on PHP and NestJS applications
 
 ---
 
