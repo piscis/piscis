@@ -51,6 +51,8 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: GitHub Stats
   <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.piscis.vercel.app/api?username=piscis&show_icons=true&hide_border=true&count_private=true&show_icons=true" />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=piscis&theme=light)](https://github.com/piscis)
+
 [website]: https://piscis.io
 [twitter]: https://twitter.com/piscis168
 [linkedin]: https://linkedin.com/in/alexanderpirsig
