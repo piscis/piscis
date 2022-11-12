@@ -12,10 +12,27 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpiscis&screen_name=piscis168)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexanderpirsig)
 
-**Stuff I use on a daily base:**
+---
 
-[![My Skills](https://skillicons.dev/icons?i=php,react,vue,js,ts,sass,html,css,bash,docker,git,gitlab,nestjs,vite,nodejs,vscode,nuxtjs,redis,prisma,wordpress,workers&perline=6)](https://piscis.io)
+### Tools I regularly work with in my projects:
 
+*Languages:*
+
+[![Languages](https://skillicons.dev/icons?i=php,js,ts,sass,css,workers&perline=6)](https://github.com/piscis/)
+
+
+*Frameworks & Runtimes:*
+
+[![Frameworks & Runtimes](https://skillicons.dev/icons?i=wordpress,vue,nestjs,nuxtjs,vite,prisma,nodejs,react&perline=6)](https://github.com/piscis/)
+
+
+*Databases:*
+
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,redis&perline=6)](https://github.com/piscis/)
+
+*DevOPS & Tools:*
+
+[![DevOPS & Tools](https://skillicons.dev/icons?i=bash,docker,git,gitlab,github,cloudflare,vscode&perline=6)](https://github.com/piscis/)
 
 ----
 
