@@ -2,7 +2,7 @@
 
 I'm Alex a Software Developer from 🇩🇪 - I love building web-based applications in general with PHP, Typescript, VueJS, React, NodeJS.
 
-- 🌱 I’m currently learning stuff about VueJS, Nuxt3 and Typescript 🤣
+- 🌱 I’m currently learning new stuff about VueJS, Nuxt3 and Typescript 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 🔭 I’m currently working on PHP and NestJS applications
 
