@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-I'm Alex - I love building web-based applications in general all about PHP, Typescript, VueJS - [piscis][website] 
+I'm Alex - I love building web-based applications in general all about PHP, Typescript, VueJS
 
 - 🌱 I’m currently learning stuff about VueJS, Nuxt3 and Typescript 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 🔭 I’m currently working on PHP and NestJS applications
 
-### 📫 How to reach me:
+**📫 How to reach me:**
+
 [![Website](https://img.shields.io/website?label=piscis.io&style=for-the-badge&url=https%3A%2F%2Fpiscis.io)](https://piscis.io)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpiscis&screen_name=piscis168)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexanderpirsig)
 
+----
 
 ### :zap: Recent Activity
 
@@ -21,6 +23,8 @@ I'm Alex - I love building web-based applications in general all about PHP, Type
 4. 🎉 Merged PR [#3](https://github.com/piscis/nuxt-quasar-boilerplate/pull/3) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
 5. 💪 Opened PR [#3](https://github.com/piscis/nuxt-quasar-boilerplate/pull/3) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
 <!--END_SECTION:activity-->
+
+----
 
 ### :zap: GitHub Stats
   <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.piscis.vercel.app/api?username=piscis&show_icons=true&hide_border=true" />
