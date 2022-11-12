@@ -22,8 +22,6 @@ I'm Alex - I love building web-based applications in general all about PHP, Type
 5. 💪 Opened PR [#3](https://github.com/piscis/nuxt-quasar-boilerplate/pull/3) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
 <!--END_SECTION:activity-->
 
----
-
 ### :zap: GitHub Stats
   <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.piscis.vercel.app/api?username=piscis&show_icons=true&hide_border=true" />
 
