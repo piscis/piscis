@@ -1,14 +1,14 @@
-### Hi there, I'm Alex - aka [piscis][website] 👋
+### Hi there 👋
+
+I'm Alex - I love building web-based applications in general all about PHP, Typescript, VueJS - [piscis][website] 
 
 [![Website](https://img.shields.io/website?label=pirsig.net&style=for-the-badge&url=https%3A%2F%2Fpirsig.net)](https://piscis.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/piscis168?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpiscis&screen_name=piscis168)
 
 ### import { WebSoftwareCraftsMan, Wingpreneur, DevOps, Gadgeteer, Dad } from 'MySelf';
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning stuff about VueJS, Nuxt3 and Typescript 🤣
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ---
 
