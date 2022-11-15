@@ -39,11 +39,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/piscis/nuxt-quasar-boilerplate/pull/4) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-2. 💪 Opened PR [#4](https://github.com/piscis/nuxt-quasar-boilerplate/pull/4) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-3. 🗣 Commented on [#11165](https://github.com/quasarframework/quasar/issues/11165) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
-4. 🎉 Merged PR [#3](https://github.com/piscis/nuxt-quasar-boilerplate/pull/3) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-5. 💪 Opened PR [#3](https://github.com/piscis/nuxt-quasar-boilerplate/pull/3) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+1. 🗣 Commented on [#13](https://github.com/piscis/ntn-boilerplate/issues/13) in [piscis/ntn-boilerplate](https://github.com/piscis/ntn-boilerplate)
+2. 🗣 Commented on [#12](https://github.com/piscis/ntn-boilerplate/issues/12) in [piscis/ntn-boilerplate](https://github.com/piscis/ntn-boilerplate)
+3. 🗣 Commented on [#11](https://github.com/piscis/ntn-boilerplate/issues/11) in [piscis/ntn-boilerplate](https://github.com/piscis/ntn-boilerplate)
+4. 🎉 Merged PR [#4](https://github.com/piscis/nuxt-quasar-boilerplate/pull/4) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+5. 💪 Opened PR [#4](https://github.com/piscis/nuxt-quasar-boilerplate/pull/4) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
 <!--END_SECTION:activity-->
 
 ----
