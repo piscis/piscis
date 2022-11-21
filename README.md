@@ -13,26 +13,31 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexanderpirsig)
 
 ---
-
-### Tools I regularly work with in my projects:
+### Tools I use regularly to work on my projects:
 
 *Languages:*
 
 [![Languages](https://skillicons.dev/icons?i=php,js,ts,sass,css,workers&perline=6)](https://github.com/piscis/)
 
 
-*Frameworks & Runtimes:*
+<details>
+<summary>Frameworks & Runtimes:</summary>
 
 [![Frameworks & Runtimes](https://skillicons.dev/icons?i=wordpress,vue,nestjs,nuxtjs,vite,prisma,nodejs,react&perline=6)](https://github.com/piscis/)
+</details>
 
 
-*Databases:*
+<details>
+<summary>Databases:</summary>
 
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb,redis&perline=6)](https://github.com/piscis/)
+</details>
 
-*DevOPS & Tools:*
+<details>
+<summary>DevOPS & Tools:</summary>
 
 [![DevOPS & Tools](https://skillicons.dev/icons?i=bash,docker,git,gitlab,github,cloudflare,vscode&perline=6)](https://github.com/piscis/)
+</details>
 
 ----
 
