@@ -44,11 +44,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/7) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
-2. 🎉 Merged PR [#5](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/5) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
-3. ❌ Closed PR [#1](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/1) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
-4. ❌ Closed PR [#2](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/2) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
-5. 🎉 Merged PR [#3](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/3) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
+1. ❌ Closed PR [#5](https://github.com/piscis/nuxt-quasar-boilerplate/pull/5) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+2. ❌ Closed PR [#7](https://github.com/piscis/nuxt-quasar-boilerplate/pull/7) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+3. ❌ Closed PR [#1](https://github.com/piscis/nuxt-quasar-boilerplate/pull/1) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+4. 🗣 Commented on [#1](https://github.com/piscis/nuxt-quasar-boilerplate/issues/1) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+5. 🎉 Merged PR [#10](https://github.com/piscis/nuxt-quasar-boilerplate/pull/10) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
 <!--END_SECTION:activity-->
 
 ----
