@@ -15,26 +15,31 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ---
 ### 👨‍💻 Tools I use regularly to work on my projects:
 
-*Languages:*
+<details open>
+<summary>⚙️ Languages:</summary>
+<br>
 
 [![Languages](https://skillicons.dev/icons?i=php,js,ts,sass,css,workers&perline=6)](https://github.com/piscis/)
-
+</details>
 
 <details>
-<summary>Frameworks & Runtimes:</summary>
+<summary>🤖 Frameworks & Runtimes:</summary>
+<br>
 
 [![Frameworks & Runtimes](https://skillicons.dev/icons?i=wordpress,vue,nestjs,nuxtjs,vite,prisma,nodejs,react&perline=6)](https://github.com/piscis/)
 </details>
 
 
 <details>
-<summary>Databases:</summary>
+<summary>🗄️ Databases:</summary>
+<br>
 
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb,redis&perline=6)](https://github.com/piscis/)
 </details>
 
 <details>
-<summary>DevOPS & Tools:</summary>
+<summary>🛠️ DevOPS & Tools:</summary>
+<br>
 
 [![DevOPS & Tools](https://skillicons.dev/icons?i=bash,docker,git,gitlab,github,cloudflare,vscode&perline=6)](https://github.com/piscis/)
 </details>
