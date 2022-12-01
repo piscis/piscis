@@ -13,7 +13,7 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexanderpirsig)
 
 ---
-### 👨‍💻 Tools I use regularly to work on my projects:
+### 👨‍💻 Tools I use regularly for my projects:
 
 <details open>
 <summary>⚙️ Languages:</summary>
