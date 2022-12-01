@@ -1,19 +1,19 @@
 ## Hi there 👋
 
-I'm Alex a Software Developer from 🇩🇪 - I love building web-based applications in general with PHP, Typescript, VueJS, React, NodeJS.
+I'm Alex a Software Developer from 🇩🇪 - I love building web-based applications in general with PHP, Typescript, VueJS, React, NodeJS, Nuxt3.
 
 - 🌱 I’m currently learning new stuff about VueJS, Nuxt3 and Typescript 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 🔭 I’m currently working on PHP and NestJS applications
 
-**📫 How to reach me:**
+### 📫 How to reach me:
 
 [![Website](https://img.shields.io/website?label=piscis.io&style=for-the-badge&url=https%3A%2F%2Fpiscis.io)](https://piscis.io)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpiscis&screen_name=piscis168)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexanderpirsig)
 
 ---
-### Tools I use regularly to work on my projects:
+### 👨‍💻 Tools I use regularly to work on my projects:
 
 *Languages:*
 
