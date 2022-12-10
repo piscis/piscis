@@ -49,11 +49,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/all3dp/all3dp-eblast-templates/pull/5) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
-2. 🎉 Merged PR [#6](https://github.com/all3dp/all3dp-eblast-templates/pull/6) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
-3. 💪 Opened PR [#6](https://github.com/all3dp/all3dp-eblast-templates/pull/6) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
-4. 💪 Opened PR [#6](https://github.com/MasteringNuxt/mastering-nuxt-3/pull/6) in [MasteringNuxt/mastering-nuxt-3](https://github.com/MasteringNuxt/mastering-nuxt-3)
-5. 🎉 Merged PR [#16](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/16) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
+1. ❌ Closed PR [#16](https://github.com/piscis/nuxt-quasar-boilerplate/pull/16) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+2. 🎉 Merged PR [#5](https://github.com/all3dp/all3dp-eblast-templates/pull/5) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
+3. 🎉 Merged PR [#6](https://github.com/all3dp/all3dp-eblast-templates/pull/6) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
+4. 💪 Opened PR [#6](https://github.com/all3dp/all3dp-eblast-templates/pull/6) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
+5. 💪 Opened PR [#6](https://github.com/MasteringNuxt/mastering-nuxt-3/pull/6) in [MasteringNuxt/mastering-nuxt-3](https://github.com/MasteringNuxt/mastering-nuxt-3)
 <!--END_SECTION:activity-->
 
 ----
