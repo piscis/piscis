@@ -49,11 +49,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/piscis/codespaces-playground/pull/1) in [piscis/codespaces-playground](https://github.com/piscis/codespaces-playground)
-2. ❌ Closed PR [#16](https://github.com/piscis/nuxt-quasar-boilerplate/pull/16) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-3. 🎉 Merged PR [#5](https://github.com/all3dp/all3dp-eblast-templates/pull/5) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
-4. 🎉 Merged PR [#6](https://github.com/all3dp/all3dp-eblast-templates/pull/6) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
-5. 💪 Opened PR [#6](https://github.com/all3dp/all3dp-eblast-templates/pull/6) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
+1. 💪 Opened PR [#702](https://github.com/nuxt/image/pull/702) in [nuxt/image](https://github.com/nuxt/image)
+2. 🎉 Merged PR [#1](https://github.com/piscis/codespaces-playground/pull/1) in [piscis/codespaces-playground](https://github.com/piscis/codespaces-playground)
+3. ❌ Closed PR [#16](https://github.com/piscis/nuxt-quasar-boilerplate/pull/16) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+4. 🎉 Merged PR [#5](https://github.com/all3dp/all3dp-eblast-templates/pull/5) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
+5. 🎉 Merged PR [#6](https://github.com/all3dp/all3dp-eblast-templates/pull/6) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
 <!--END_SECTION:activity-->
 
 ----
