@@ -49,11 +49,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#800](https://github.com/coollabsio/coolify/issues/800) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-2. 🎉 Merged PR [#17](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/17) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
-3. 💪 Opened PR [#702](https://github.com/nuxt/image/pull/702) in [nuxt/image](https://github.com/nuxt/image)
-4. 🎉 Merged PR [#1](https://github.com/piscis/codespaces-playground/pull/1) in [piscis/codespaces-playground](https://github.com/piscis/codespaces-playground)
-5. ❌ Closed PR [#16](https://github.com/piscis/nuxt-quasar-boilerplate/pull/16) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+1. 🗣 Commented on [#682](https://github.com/nuxt/image/issues/682) in [nuxt/image](https://github.com/nuxt/image)
+2. 🗣 Commented on [#800](https://github.com/coollabsio/coolify/issues/800) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+3. 🎉 Merged PR [#17](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/17) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
+4. 💪 Opened PR [#702](https://github.com/nuxt/image/pull/702) in [nuxt/image](https://github.com/nuxt/image)
+5. 🎉 Merged PR [#1](https://github.com/piscis/codespaces-playground/pull/1) in [piscis/codespaces-playground](https://github.com/piscis/codespaces-playground)
 <!--END_SECTION:activity-->
 
 ----
