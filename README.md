@@ -50,10 +50,10 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#300](https://github.com/histoire-dev/histoire/issues/300) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
-2. 🎉 Merged PR [#19](https://github.com/piscis/nuxt-quasar-boilerplate/pull/19) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-3. 🗣 Commented on [#682](https://github.com/nuxt/image/issues/682) in [nuxt/image](https://github.com/nuxt/image)
-4. 🗣 Commented on [#800](https://github.com/coollabsio/coolify/issues/800) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-5. 🎉 Merged PR [#17](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/17) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
+2. 🗣 Commented on [#300](https://github.com/histoire-dev/histoire/issues/300) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
+3. 🗣 Commented on [#300](https://github.com/histoire-dev/histoire/issues/300) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
+4. 🎉 Merged PR [#19](https://github.com/piscis/nuxt-quasar-boilerplate/pull/19) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+5. 🗣 Commented on [#682](https://github.com/nuxt/image/issues/682) in [nuxt/image](https://github.com/nuxt/image)
 <!--END_SECTION:activity-->
 
 ----
