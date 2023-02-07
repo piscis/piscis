@@ -49,11 +49,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#300](https://github.com/histoire-dev/histoire/issues/300) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
+1. 🗣 Commented on [#924](https://github.com/nuxt/content/issues/924) in [nuxt/content](https://github.com/nuxt/content)
 2. 🗣 Commented on [#300](https://github.com/histoire-dev/histoire/issues/300) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
 3. 🗣 Commented on [#300](https://github.com/histoire-dev/histoire/issues/300) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
-4. 🎉 Merged PR [#19](https://github.com/piscis/nuxt-quasar-boilerplate/pull/19) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-5. 🗣 Commented on [#682](https://github.com/nuxt/image/issues/682) in [nuxt/image](https://github.com/nuxt/image)
+4. 🗣 Commented on [#300](https://github.com/histoire-dev/histoire/issues/300) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
+5. 🎉 Merged PR [#19](https://github.com/piscis/nuxt-quasar-boilerplate/pull/19) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
 <!--END_SECTION:activity-->
 
 ----
