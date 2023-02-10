@@ -49,11 +49,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#924](https://github.com/nuxt/content/issues/924) in [nuxt/content](https://github.com/nuxt/content)
-2. 🗣 Commented on [#300](https://github.com/histoire-dev/histoire/issues/300) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
-3. 🗣 Commented on [#300](https://github.com/histoire-dev/histoire/issues/300) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
-4. 🗣 Commented on [#300](https://github.com/histoire-dev/histoire/issues/300) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
-5. 🎉 Merged PR [#19](https://github.com/piscis/nuxt-quasar-boilerplate/pull/19) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+1. 🎉 Merged PR [#19](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/19) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
+2. 🎉 Merged PR [#21](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/21) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
+3. 🎉 Merged PR [#20](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/20) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
+4. 💪 Opened PR [#20](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/20) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
+5. 🗣 Commented on [#11165](https://github.com/quasarframework/quasar/issues/11165) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
 <!--END_SECTION:activity-->
 
 ----
