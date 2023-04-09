@@ -49,11 +49,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/all3dp/all3dp-eblast-templates/pull/10) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
-2. 🎉 Merged PR [#82](https://github.com/piscis/nuxt-quasar-boilerplate/pull/82) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-3. 💪 Opened PR [#82](https://github.com/piscis/nuxt-quasar-boilerplate/pull/82) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-4. 🗣 Commented on [#31](https://github.com/piscis/nuxt-quasar-boilerplate/issues/31) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-5. 🗣 Commented on [#31](https://github.com/piscis/nuxt-quasar-boilerplate/issues/31) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+1. 🎉 Merged PR [#7](https://github.com/all3dp/all3dp-eblast-templates/pull/7) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
+2. 🎉 Merged PR [#8](https://github.com/all3dp/all3dp-eblast-templates/pull/8) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
+3. 🎉 Merged PR [#10](https://github.com/all3dp/all3dp-eblast-templates/pull/10) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
+4. 🗣 Commented on [#10](https://github.com/all3dp/all3dp-eblast-templates/issues/10) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
+5. 💪 Opened PR [#10](https://github.com/all3dp/all3dp-eblast-templates/pull/10) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
 <!--END_SECTION:activity-->
 
 ----
