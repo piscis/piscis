@@ -1,6 +1,6 @@
 ## Hi there :wave:
 
-I'm Alex a Software Developer from 🇩🇪 - I love building web-based applications in general with PHP, Typescript, VueJS, React, NodeJS, Nuxt3.
+I'm Alex a Software Developer from 🇩🇪 - I love building web-based applications in general with PHP, Typescript, VueJS, NodeJS, Nuxt3.
 
 - :books: I’m currently learning new stuff about VueJS, Nuxt3 and Typescript
 - :bowtie: *2023 Goals:* Contribute more to Open Source projects
