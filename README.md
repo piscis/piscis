@@ -49,11 +49,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/piscis/nuxt3-nestjs-boilerplate/issues/77) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
-2. 🎉 Merged PR [#7](https://github.com/all3dp/all3dp-eblast-templates/pull/7) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
-3. 🎉 Merged PR [#8](https://github.com/all3dp/all3dp-eblast-templates/pull/8) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
-4. 🎉 Merged PR [#10](https://github.com/all3dp/all3dp-eblast-templates/pull/10) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
-5. 🗣 Commented on [#10](https://github.com/all3dp/all3dp-eblast-templates/issues/10) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
+1. 🎉 Merged PR [#2](https://github.com/piscis/url-bouncer/pull/2) in [piscis/url-bouncer](https://github.com/piscis/url-bouncer)
+2. ❌ Closed PR [#88](https://github.com/piscis/nuxt-quasar-boilerplate/pull/88) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+3. 🗣 Commented on [#77](https://github.com/piscis/nuxt3-nestjs-boilerplate/issues/77) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
+4. 🎉 Merged PR [#7](https://github.com/all3dp/all3dp-eblast-templates/pull/7) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
+5. 🎉 Merged PR [#8](https://github.com/all3dp/all3dp-eblast-templates/pull/8) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
 <!--END_SECTION:activity-->
 
 ----
