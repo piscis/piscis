@@ -49,11 +49,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1350](https://github.com/unjs/nitro/issues/1350) in [unjs/nitro](https://github.com/unjs/nitro)
-2. 🎉 Merged PR [#106](https://github.com/piscis/nuxt-quasar-boilerplate/pull/106) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-3. 💪 Opened PR [#106](https://github.com/piscis/nuxt-quasar-boilerplate/pull/106) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-4. 🗣 Commented on [#924](https://github.com/nuxt/content/issues/924) in [nuxt/content](https://github.com/nuxt/content)
-5. 🎉 Merged PR [#83](https://github.com/piscis/nuxt-quasar-boilerplate/pull/83) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+1. 🎉 Merged PR [#110](https://github.com/piscis/nuxt-quasar-boilerplate/pull/110) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+2. 🎉 Merged PR [#19](https://github.com/piscis/url-bouncer/pull/19) in [piscis/url-bouncer](https://github.com/piscis/url-bouncer)
+3. 🎉 Merged PR [#13](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/13) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+4. ❗ Opened issue [#1350](https://github.com/unjs/nitro/issues/1350) in [unjs/nitro](https://github.com/unjs/nitro)
+5. 🎉 Merged PR [#106](https://github.com/piscis/nuxt-quasar-boilerplate/pull/106) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
 <!--END_SECTION:activity-->
 
 ----
