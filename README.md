@@ -49,11 +49,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/piscis/nuxt-quasar-boilerplate/pull/110) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-2. 🎉 Merged PR [#19](https://github.com/piscis/url-bouncer/pull/19) in [piscis/url-bouncer](https://github.com/piscis/url-bouncer)
-3. 🎉 Merged PR [#13](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/13) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-4. ❗ Opened issue [#1350](https://github.com/unjs/nitro/issues/1350) in [unjs/nitro](https://github.com/unjs/nitro)
-5. 🎉 Merged PR [#106](https://github.com/piscis/nuxt-quasar-boilerplate/pull/106) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+1. 🗣 Commented on [#15930](https://github.com/supabase/supabase/issues/15930#issuecomment-1645463250) in [supabase/supabase](https://github.com/supabase/supabase)
+2. 🎉 Merged PR [#110](https://github.com/piscis/nuxt-quasar-boilerplate/pull/110) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+3. 🎉 Merged PR [#19](https://github.com/piscis/url-bouncer/pull/19) in [piscis/url-bouncer](https://github.com/piscis/url-bouncer)
+4. 🎉 Merged PR [#13](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/13) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+5. ❗ Opened issue [#1350](https://github.com/unjs/nitro/issues/1350) in [unjs/nitro](https://github.com/unjs/nitro)
 <!--END_SECTION:activity-->
 
 ----
