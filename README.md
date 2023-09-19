@@ -49,11 +49,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15930](https://github.com/supabase/supabase/issues/15930#issuecomment-1645861712) in [supabase/supabase](https://github.com/supabase/supabase)
-2. 🗣 Commented on [#15930](https://github.com/supabase/supabase/issues/15930#issuecomment-1645463250) in [supabase/supabase](https://github.com/supabase/supabase)
-3. 🎉 Merged PR [#110](https://github.com/piscis/nuxt-quasar-boilerplate/pull/110) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-4. 🎉 Merged PR [#19](https://github.com/piscis/url-bouncer/pull/19) in [piscis/url-bouncer](https://github.com/piscis/url-bouncer)
-5. 🎉 Merged PR [#13](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/13) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+1. 🎉 Merged PR [#34](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/34) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+2. 💪 Opened PR [#34](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/34) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+3. 🎉 Merged PR [#33](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/33) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+4. 🎉 Merged PR [#21](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/21) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+5. 🎉 Merged PR [#31](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/31) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
 <!--END_SECTION:activity-->
 
 ----
