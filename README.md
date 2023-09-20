@@ -49,11 +49,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/34) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-2. 💪 Opened PR [#34](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/34) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-3. 🎉 Merged PR [#33](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/33) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-4. 🎉 Merged PR [#21](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/21) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-5. 🎉 Merged PR [#31](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/31) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+1. 🚀 Published release [v1.1.4](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/releases/tag/1.1.4) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+2. 🚀 Published release [v1.0.0](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/releases/tag/1.0.0) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+3. 🚀 Published release [v1.1.1](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/releases/tag/1.1.1) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+4. 🎉 Merged PR [#37](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/37) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+5. 🎉 Merged PR [#35](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/35) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
 <!--END_SECTION:activity-->
 
 ----
