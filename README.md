@@ -49,11 +49,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3232](https://github.com/unocss/unocss/issues/3232) in [unocss/unocss](https://github.com/unocss/unocss)
-2. 🎉 Merged PR [#39](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/39) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-3. 🚀 Published release [v1.2.0](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/releases/tag/1.2.0) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-4. 🗣 Commented on [#6977](https://github.com/surveyjs/survey-library/issues/6977#issuecomment-1731354974) in [surveyjs/survey-library](https://github.com/surveyjs/survey-library)
-5. 🚀 Published release [v1.1.4](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/releases/tag/1.1.4) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+1. ❗ Opened issue [#616](https://github.com/histoire-dev/histoire/issues/616) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
+2. ❗ Opened issue [#3232](https://github.com/unocss/unocss/issues/3232) in [unocss/unocss](https://github.com/unocss/unocss)
+3. 🎉 Merged PR [#39](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/39) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+4. 🚀 Published release [v1.2.0](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/releases/tag/1.2.0) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+5. 🗣 Commented on [#6977](https://github.com/surveyjs/survey-library/issues/6977#issuecomment-1731354974) in [surveyjs/survey-library](https://github.com/surveyjs/survey-library)
 <!--END_SECTION:activity-->
 
 ----
