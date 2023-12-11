@@ -49,11 +49,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8301](https://github.com/chatwoot/chatwoot/issues/8301#issuecomment-1835942122) in [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
-2. ❗ Opened issue [#8301](https://github.com/chatwoot/chatwoot/issues/8301) in [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
-3. ❗ Opened issue [#616](https://github.com/histoire-dev/histoire/issues/616) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
-4. ❗ Opened issue [#3232](https://github.com/unocss/unocss/issues/3232) in [unocss/unocss](https://github.com/unocss/unocss)
-5. 🎉 Merged PR [#39](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/39) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+1. 🗣 Commented on [#616](https://github.com/histoire-dev/histoire/issues/616#issuecomment-1849940503) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
+2. 🔒 Closed issue [#616](https://github.com/histoire-dev/histoire/issues/616) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
+3. 🗣 Commented on [#8301](https://github.com/chatwoot/chatwoot/issues/8301#issuecomment-1835942122) in [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+4. ❗ Opened issue [#8301](https://github.com/chatwoot/chatwoot/issues/8301) in [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+5. ❗ Opened issue [#616](https://github.com/histoire-dev/histoire/issues/616) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
 <!--END_SECTION:activity-->
 
 ----
