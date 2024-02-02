@@ -49,11 +49,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#616](https://github.com/histoire-dev/histoire/issues/616#issuecomment-1849940503) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
-2. 🔒 Closed issue [#616](https://github.com/histoire-dev/histoire/issues/616) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
-3. 🗣 Commented on [#8301](https://github.com/chatwoot/chatwoot/issues/8301#issuecomment-1835942122) in [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
-4. ❗ Opened issue [#8301](https://github.com/chatwoot/chatwoot/issues/8301) in [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
-5. ❗ Opened issue [#616](https://github.com/histoire-dev/histoire/issues/616) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
+1. 🎉 Merged PR [#4](https://github.com/piscis/nitro-web-redirect/pull/4) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
+2. 🎉 Merged PR [#2](https://github.com/piscis/nitro-web-redirect/pull/2) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
+3. 🎉 Merged PR [#1](https://github.com/piscis/nitro-web-redirect/pull/1) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
+4. 💪 Opened PR [#1](https://github.com/piscis/nitro-web-redirect/pull/1) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
+5. 🗣 Commented on [#616](https://github.com/histoire-dev/histoire/issues/616#issuecomment-1849940503) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
 <!--END_SECTION:activity-->
 
 ----
