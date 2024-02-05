@@ -49,11 +49,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/piscis/nitro-web-redirect/pull/4) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
-2. 🎉 Merged PR [#2](https://github.com/piscis/nitro-web-redirect/pull/2) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
-3. 🎉 Merged PR [#1](https://github.com/piscis/nitro-web-redirect/pull/1) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
-4. 💪 Opened PR [#1](https://github.com/piscis/nitro-web-redirect/pull/1) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
-5. 🗣 Commented on [#616](https://github.com/histoire-dev/histoire/issues/616#issuecomment-1849940503) in [histoire-dev/histoire](https://github.com/histoire-dev/histoire)
+1. 🗣 Commented on [#1707](https://github.com/coollabsio/coolify/issues/1707#issuecomment-1925731722) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+2. ❗ Opened issue [#1707](https://github.com/coollabsio/coolify/issues/1707) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+3. 💪 Opened PR [#1706](https://github.com/coollabsio/coolify/pull/1706) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+4. 🎉 Merged PR [#4](https://github.com/piscis/nitro-web-redirect/pull/4) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
+5. 🎉 Merged PR [#2](https://github.com/piscis/nitro-web-redirect/pull/2) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
 <!--END_SECTION:activity-->
 
 ----
