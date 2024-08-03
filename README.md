@@ -49,7 +49,7 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/57) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+1. 🗣 Commented on [#28680](https://github.com/expo/expo/issues/28680#issuecomment-2266649217) in [expo/expo](https://github.com/expo/expo)
 2. 🎉 Merged PR [#47](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/47) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
 3. 🎉 Merged PR [#56](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/56) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
 4. 🎉 Merged PR [#81](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/81) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
