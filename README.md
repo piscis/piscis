@@ -48,11 +48,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/formkit/themes.formkit.com/issues/2#issuecomment-2429665321) in [formkit/themes.formkit.com](https://github.com/formkit/themes.formkit.com)
-2. ❗ Opened issue [#1534](https://github.com/formkit/formkit/issues/1534) in [formkit/formkit](https://github.com/formkit/formkit)
-3. 🗣 Commented on [#958](https://github.com/themesberg/flowbite/issues/958#issuecomment-2372160736) in [themesberg/flowbite](https://github.com/themesberg/flowbite)
-4. 🎉 Merged PR [#90](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/90) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-5. ❌ Closed PR [#86](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/86) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+1. 🚀 Published release [8.15.3](https://github.com/piscis/elasticsearch-nextcloud-docker/releases/tag/8.15.3) in [piscis/elasticsearch-nextcloud-docker](https://github.com/piscis/elasticsearch-nextcloud-docker)
+2. 🚀 Published release [8.8.2](https://github.com/piscis/elasticsearch-nextcloud-docker/releases/tag/8.8.2) in [piscis/elasticsearch-nextcloud-docker](https://github.com/piscis/elasticsearch-nextcloud-docker)
+3. 🗣 Commented on [#2](https://github.com/formkit/themes.formkit.com/issues/2#issuecomment-2429665321) in [formkit/themes.formkit.com](https://github.com/formkit/themes.formkit.com)
+4. ❗ Opened issue [#1534](https://github.com/formkit/formkit/issues/1534) in [formkit/formkit](https://github.com/formkit/formkit)
+5. 🗣 Commented on [#958](https://github.com/themesberg/flowbite/issues/958#issuecomment-2372160736) in [themesberg/flowbite](https://github.com/themesberg/flowbite)
 <!--END_SECTION:activity-->
 
 ----
