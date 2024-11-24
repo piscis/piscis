@@ -48,11 +48,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4701](https://github.com/coralproject/talk/issues/4701) in [coralproject/talk](https://github.com/coralproject/talk)
-2. 🚀 Published release [8.15.3](https://github.com/piscis/elasticsearch-nextcloud-docker/releases/tag/8.15.3) in [piscis/elasticsearch-nextcloud-docker](https://github.com/piscis/elasticsearch-nextcloud-docker)
-3. 🚀 Published release [8.8.2](https://github.com/piscis/elasticsearch-nextcloud-docker/releases/tag/8.8.2) in [piscis/elasticsearch-nextcloud-docker](https://github.com/piscis/elasticsearch-nextcloud-docker)
-4. 🗣 Commented on [#2](https://github.com/formkit/themes.formkit.com/issues/2#issuecomment-2429665321) in [formkit/themes.formkit.com](https://github.com/formkit/themes.formkit.com)
-5. ❗ Opened issue [#1534](https://github.com/formkit/formkit/issues/1534) in [formkit/formkit](https://github.com/formkit/formkit)
+1. 🗣 Commented on [#4701](https://github.com/coralproject/talk/issues/4701#issuecomment-2495633071) in [coralproject/talk](https://github.com/coralproject/talk)
+2. ❗ Opened issue [#4701](https://github.com/coralproject/talk/issues/4701) in [coralproject/talk](https://github.com/coralproject/talk)
+3. 🚀 Published release [8.15.3](https://github.com/piscis/elasticsearch-nextcloud-docker/releases/tag/8.15.3) in [piscis/elasticsearch-nextcloud-docker](https://github.com/piscis/elasticsearch-nextcloud-docker)
+4. 🚀 Published release [8.8.2](https://github.com/piscis/elasticsearch-nextcloud-docker/releases/tag/8.8.2) in [piscis/elasticsearch-nextcloud-docker](https://github.com/piscis/elasticsearch-nextcloud-docker)
+5. 🗣 Commented on [#2](https://github.com/formkit/themes.formkit.com/issues/2#issuecomment-2429665321) in [formkit/themes.formkit.com](https://github.com/formkit/themes.formkit.com)
 <!--END_SECTION:activity-->
 
 ----
