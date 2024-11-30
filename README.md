@@ -48,11 +48,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4701](https://github.com/coralproject/talk/issues/4701#issuecomment-2501544080) in [coralproject/talk](https://github.com/coralproject/talk)
-2. 🗣 Commented on [#4701](https://github.com/coralproject/talk/issues/4701#issuecomment-2501391274) in [coralproject/talk](https://github.com/coralproject/talk)
-3. 💪 Opened PR [#4702](https://github.com/coralproject/talk/pull/4702) in [coralproject/talk](https://github.com/coralproject/talk)
-4. 🗣 Commented on [#4701](https://github.com/coralproject/talk/issues/4701#issuecomment-2495633071) in [coralproject/talk](https://github.com/coralproject/talk)
-5. ❗ Opened issue [#4701](https://github.com/coralproject/talk/issues/4701) in [coralproject/talk](https://github.com/coralproject/talk)
+1. 🗣 Commented on [#4702](https://github.com/coralproject/talk/pull/4702#issuecomment-2508068259) in [coralproject/talk](https://github.com/coralproject/talk)
+2. 🗣 Commented on [#4701](https://github.com/coralproject/talk/issues/4701#issuecomment-2501544080) in [coralproject/talk](https://github.com/coralproject/talk)
+3. 🗣 Commented on [#4701](https://github.com/coralproject/talk/issues/4701#issuecomment-2501391274) in [coralproject/talk](https://github.com/coralproject/talk)
+4. 💪 Opened PR [#4702](https://github.com/coralproject/talk/pull/4702) in [coralproject/talk](https://github.com/coralproject/talk)
+5. 🗣 Commented on [#4701](https://github.com/coralproject/talk/issues/4701#issuecomment-2495633071) in [coralproject/talk](https://github.com/coralproject/talk)
 <!--END_SECTION:activity-->
 
 ----
