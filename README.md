@@ -8,7 +8,7 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 
 ### 📫 How to reach me:
 
-[![Website](https://img.shields.io/website?label=piscis.io&style=for-the-badge&url=https%3A%2F%2Fpiscis.io)](https://piscis.io)
+[![Website](https://img.shields.io/website?label=pirsig.net&style=for-the-badge&url=https%3A%2F%2Fpirsig.net)](https://pirsig.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexanderpirsig)
 
 ---
@@ -58,10 +58,9 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ----
 
 ### ✨ GitHub Stats
-  <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.piscis.io/?username=piscis&show_icons=true&hide_border=true&count_private=true&show_icons=true" />
+  <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.pirsig.net/?username=piscis&show_icons=true&hide_border=true&count_private=true&show_icons=true" />
 
-[![GitHub Streak](https://github-readme-streak-stats.piscis.io/?user=piscis&theme=light&card_width=380)](https://github.com/piscis)
+[![GitHub Streak](https://github-readme-streak-stats.pirsig.net/?user=piscis&theme=light&card_width=380)](https://github.com/piscis)
 
-[website]: https://piscis.io
-[twitter]: https://twitter.com/piscis168
+[website]: https://pirsig.net
 [linkedin]: https://linkedin.com/in/alexanderpirsig
