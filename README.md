@@ -4,7 +4,7 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 
 - :books: I’m currently learning new stuff about VueJS, Nuxt3, Nitro and Typescript
 - :bowtie: *2024 Goals:* Contribute to Open Source projects
-- :building_construction: I’m currently working on PHP, Nuxt3, VueJS applications
+- :building_construction: I’m currently working on PHP, Nuxt3, VueJS, ReactNative applications
 
 ### 📫 How to reach me:
 
