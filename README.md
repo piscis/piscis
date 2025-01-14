@@ -48,11 +48,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#149](https://github.com/piscis/nuxt-quasar-boilerplate/pull/149) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-2. 💪 Opened PR [#149](https://github.com/piscis/nuxt-quasar-boilerplate/pull/149) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-3. 🗣 Commented on [#112](https://github.com/chrisboustead/videojs-hls-quality-selector/issues/112#issuecomment-2511869225) in [chrisboustead/videojs-hls-quality-selector](https://github.com/chrisboustead/videojs-hls-quality-selector)
-4. 🗣 Commented on [#4702](https://github.com/coralproject/talk/pull/4702#issuecomment-2508068259) in [coralproject/talk](https://github.com/coralproject/talk)
-5. 🗣 Commented on [#4701](https://github.com/coralproject/talk/issues/4701#issuecomment-2501544080) in [coralproject/talk](https://github.com/coralproject/talk)
+1. ❗ Opened issue [#4672](https://github.com/hoppscotch/hoppscotch/issues/4672) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🎉 Merged PR [#149](https://github.com/piscis/nuxt-quasar-boilerplate/pull/149) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+3. 💪 Opened PR [#149](https://github.com/piscis/nuxt-quasar-boilerplate/pull/149) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+4. 🗣 Commented on [#112](https://github.com/chrisboustead/videojs-hls-quality-selector/issues/112#issuecomment-2511869225) in [chrisboustead/videojs-hls-quality-selector](https://github.com/chrisboustead/videojs-hls-quality-selector)
+5. 🗣 Commented on [#4702](https://github.com/coralproject/talk/pull/4702#issuecomment-2508068259) in [coralproject/talk](https://github.com/coralproject/talk)
 <!--END_SECTION:activity-->
 
 ----
