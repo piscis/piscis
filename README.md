@@ -48,11 +48,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4672](https://github.com/hoppscotch/hoppscotch/issues/4672) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🎉 Merged PR [#149](https://github.com/piscis/nuxt-quasar-boilerplate/pull/149) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-3. 💪 Opened PR [#149](https://github.com/piscis/nuxt-quasar-boilerplate/pull/149) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-4. 🗣 Commented on [#112](https://github.com/chrisboustead/videojs-hls-quality-selector/issues/112#issuecomment-2511869225) in [chrisboustead/videojs-hls-quality-selector](https://github.com/chrisboustead/videojs-hls-quality-selector)
-5. 🗣 Commented on [#4702](https://github.com/coralproject/talk/pull/4702#issuecomment-2508068259) in [coralproject/talk](https://github.com/coralproject/talk)
+1. 🗣 Commented on [#4255](https://github.com/coollabsio/coolify/issues/4255#issuecomment-2613821812) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+2. 🗣 Commented on [#4255](https://github.com/coollabsio/coolify/issues/4255#issuecomment-2613815864) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+3. ❗ Opened issue [#4672](https://github.com/hoppscotch/hoppscotch/issues/4672) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 🎉 Merged PR [#149](https://github.com/piscis/nuxt-quasar-boilerplate/pull/149) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+5. 💪 Opened PR [#149](https://github.com/piscis/nuxt-quasar-boilerplate/pull/149) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
 <!--END_SECTION:activity-->
 
 ----
