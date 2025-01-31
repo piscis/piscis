@@ -48,11 +48,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4255](https://github.com/coollabsio/coolify/issues/4255#issuecomment-2613821812) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-2. 🗣 Commented on [#4255](https://github.com/coollabsio/coolify/issues/4255#issuecomment-2613815864) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-3. ❗ Opened issue [#4672](https://github.com/hoppscotch/hoppscotch/issues/4672) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🎉 Merged PR [#149](https://github.com/piscis/nuxt-quasar-boilerplate/pull/149) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
-5. 💪 Opened PR [#149](https://github.com/piscis/nuxt-quasar-boilerplate/pull/149) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+1. ❗ Opened issue [#14](https://github.com/johannschopplich/nitro-test-utils/issues/14) in [johannschopplich/nitro-test-utils](https://github.com/johannschopplich/nitro-test-utils)
+2. 💪 Opened PR [#13](https://github.com/johannschopplich/nitro-test-utils/pull/13) in [johannschopplich/nitro-test-utils](https://github.com/johannschopplich/nitro-test-utils)
+3. 🗣 Commented on [#4255](https://github.com/coollabsio/coolify/issues/4255#issuecomment-2613821812) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+4. 🗣 Commented on [#4255](https://github.com/coollabsio/coolify/issues/4255#issuecomment-2613815864) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+5. ❗ Opened issue [#4672](https://github.com/hoppscotch/hoppscotch/issues/4672) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 
 ----
