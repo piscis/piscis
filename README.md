@@ -48,11 +48,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14](https://github.com/johannschopplich/nitro-test-utils/issues/14) in [johannschopplich/nitro-test-utils](https://github.com/johannschopplich/nitro-test-utils)
-2. 💪 Opened PR [#13](https://github.com/johannschopplich/nitro-test-utils/pull/13) in [johannschopplich/nitro-test-utils](https://github.com/johannschopplich/nitro-test-utils)
-3. 🗣 Commented on [#4255](https://github.com/coollabsio/coolify/issues/4255#issuecomment-2613821812) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-4. 🗣 Commented on [#4255](https://github.com/coollabsio/coolify/issues/4255#issuecomment-2613815864) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-5. ❗ Opened issue [#4672](https://github.com/hoppscotch/hoppscotch/issues/4672) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. ❗ Opened issue [#4748](https://github.com/coralproject/talk/issues/4748) in [coralproject/talk](https://github.com/coralproject/talk)
+2. ❗ Opened issue [#14](https://github.com/johannschopplich/nitro-test-utils/issues/14) in [johannschopplich/nitro-test-utils](https://github.com/johannschopplich/nitro-test-utils)
+3. 💪 Opened PR [#13](https://github.com/johannschopplich/nitro-test-utils/pull/13) in [johannschopplich/nitro-test-utils](https://github.com/johannschopplich/nitro-test-utils)
+4. 🗣 Commented on [#4255](https://github.com/coollabsio/coolify/issues/4255#issuecomment-2613821812) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+5. 🗣 Commented on [#4255](https://github.com/coollabsio/coolify/issues/4255#issuecomment-2613815864) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
 <!--END_SECTION:activity-->
 
 ----
