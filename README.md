@@ -48,11 +48,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4275](https://github.com/anuraghazra/github-readme-stats/pull/4275) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 💪 Opened PR [#4275](https://github.com/anuraghazra/github-readme-stats/pull/4275) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 💪 Opened PR [#13](https://github.com/johannschopplich/nitro-test-utils/pull/13) in [johannschopplich/nitro-test-utils](https://github.com/johannschopplich/nitro-test-utils)
-4. 🗣 Commented on [#4255](https://github.com/coollabsio/coolify/issues/4255#issuecomment-2613821812) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-5. 🗣 Commented on [#4255](https://github.com/coollabsio/coolify/issues/4255#issuecomment-2613815864) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+1. 🎉 Merged PR [#70](https://github.com/piscis/nitro-web-redirect/pull/70) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
+2. 🎉 Merged PR [#29](https://github.com/piscis/nitro-web-redirect/pull/29) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
+3. 🎉 Merged PR [#71](https://github.com/piscis/nitro-web-redirect/pull/71) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
+4. 🎉 Merged PR [#68](https://github.com/piscis/nitro-web-redirect/pull/68) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
+5. ❌ Closed PR [#4275](https://github.com/anuraghazra/github-readme-stats/pull/4275) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
 ----
