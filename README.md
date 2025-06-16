@@ -5,6 +5,7 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 - :books: I’m currently learning new stuff about DrizzleORM, NeonDB, NitroJS, Webworker, KirbyCMS
 - :bowtie: *2025 Goals:* Contribute to Open Source projects, start IndiHacker projects, ikigai
 - :building_construction: I’m currently working on PHP, Nuxt3, VueJS, Cloudflare Worker Apps and ReactNative applications
+- ⚒️: Traverse into the role of indie hacker build more of my own products 
 
 ### 📫 How to reach me:
 
