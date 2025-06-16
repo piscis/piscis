@@ -8,7 +8,7 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 
 ### 📫 How to reach me:
 
-[![Website](https://img.shields.io/website?label=piscis.dev&style=for-the-badge&url=https%3A%2F%piscis.dev)](https://piscis.dev)
+[![Website](https://img.shields.io/website?label=piscis.dev&style=for-the-badge&url=https://piscis.dev)](https://piscis.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexanderpirsig)
 
 ---
