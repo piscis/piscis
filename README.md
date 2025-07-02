@@ -48,11 +48,11 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/piscis/nitro-web-redirect/pull/70) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
-2. 🎉 Merged PR [#29](https://github.com/piscis/nitro-web-redirect/pull/29) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
-3. 🎉 Merged PR [#71](https://github.com/piscis/nitro-web-redirect/pull/71) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
-4. 🎉 Merged PR [#68](https://github.com/piscis/nitro-web-redirect/pull/68) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
-5. ❌ Closed PR [#4275](https://github.com/anuraghazra/github-readme-stats/pull/4275) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. 🗣 Commented on [#873](https://github.com/nuxt/devtools/issues/873#issuecomment-3025166869) in [nuxt/devtools](https://github.com/nuxt/devtools)
+2. 🗣 Commented on [#874](https://github.com/nuxt/devtools/issues/874#issuecomment-3025164412) in [nuxt/devtools](https://github.com/nuxt/devtools)
+3. 🎉 Merged PR [#70](https://github.com/piscis/nitro-web-redirect/pull/70) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
+4. 🎉 Merged PR [#29](https://github.com/piscis/nitro-web-redirect/pull/29) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
+5. 🎉 Merged PR [#71](https://github.com/piscis/nitro-web-redirect/pull/71) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
 <!--END_SECTION:activity-->
 
 ----
