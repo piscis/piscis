@@ -4,7 +4,7 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 
 - :books: I’m currently learning new stuff about DrizzleORM, NeonDB, NitroJS, Webworker, KirbyCMS
 - :bowtie: *2025 Goals:* Contribute to Open Source projects, start IndiHacker projects, ikigai
-- :building_construction: I’m currently working on PHP, Nuxt3, VueJS, Cloudflare Worker Apps and ReactNative applications
+- :building_construction: I’m currently working on PHP, Nuxt4, VueJS, Cloudflare Worker Apps and ReactNative applications
 - ⚒️ Focus on building my own products as an indie hacker
 
 ### 📫 How to reach me:
@@ -62,5 +62,5 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 
 [![GitHub Streak](https://github-readme-streak-stats.pirsig.net/?user=piscis&theme=light&card_width=380)](https://github.com/piscis)
 
-[website]: https://pirsig.net
+[website]: https://piscis.dev
 [linkedin]: https://linkedin.com/in/alexanderpirsig
