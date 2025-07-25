@@ -1,6 +1,6 @@
 ## Hi there :wave:
 
-I'm Alex a Software Developer from 🇩🇪 - I love building web-based applications in general with PHP, Typescript, VueJS, NodeJS, Nuxt3.
+I'm Alex a Software Developer from 🇩🇪 - I love building web-based applications in general with PHP, Typescript, VueJS, NodeJS, Nuxt4.
 
 - :books: I’m currently learning new stuff about DrizzleORM, NeonDB, NitroJS, Webworker, KirbyCMS
 - :bowtie: *2025 Goals:* Contribute to Open Source projects, start IndiHacker projects, ikigai
