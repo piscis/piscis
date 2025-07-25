@@ -2,8 +2,8 @@
 
 I'm Alex a Software Developer from Germany 🇩🇪 - I love building web-based applications in general with PHP, Typescript, VueJS, NodeJS, Nuxt4.
 
-- :books: I’m currently learning new stuff about DrizzleORM, NeonDB, NitroJS, Webworker, KirbyCMS
-- :bowtie: *2025 Goals:* Contribute to Open Source projects, start IndiHacker projects, ikigai
+- :books: I’m currently learning new stuff about DrizzleORM / Prisma, NeonDB, NitroJS, Webworker, KirbyCMS, Cloudflare, Windsurf, Stablede Fusion
+- :bowtie: *2025 Goals:* Contribute to Open Source projects, Work on my Indi-Hacker projects, ikigai
 - :building_construction: I’m currently working on PHP, Nuxt4, VueJS, Cloudflare Worker Apps and ReactNative applications
 - ⚒️ Focus on building my own products as an indie hacker
 
