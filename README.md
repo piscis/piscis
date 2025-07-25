@@ -63,4 +63,3 @@ I'm Alex a Software Developer from 🇩🇪 - I love building web-based applicat
 [![GitHub Streak](https://github-readme-streak-stats.pirsig.net/?user=piscis&theme=light&card_width=380)](https://github.com/piscis)
 
 [website]: https://piscis.dev
-[linkedin]: https://linkedin.com/in/alexanderpirsig
