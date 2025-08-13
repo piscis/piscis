@@ -48,11 +48,11 @@ I'm Alex a Software Developer from Germany 🇩🇪 - I love building web-based 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#165](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/165) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-2. 🎉 Merged PR [#163](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/163) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-3. 🎉 Merged PR [#124](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/124) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-4. 🗣 Commented on [#873](https://github.com/nuxt/devtools/issues/873#issuecomment-3025166869) in [nuxt/devtools](https://github.com/nuxt/devtools)
-5. 🗣 Commented on [#874](https://github.com/nuxt/devtools/issues/874#issuecomment-3025164412) in [nuxt/devtools](https://github.com/nuxt/devtools)
+1. 🎉 Merged PR [#168](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/168) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+2. 🎉 Merged PR [#171](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/171) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+3. 🎉 Merged PR [#172](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/172) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+4. 🎉 Merged PR [#165](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/165) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+5. 🎉 Merged PR [#163](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/163) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
 <!--END_SECTION:activity-->
 
 ----
