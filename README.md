@@ -48,9 +48,9 @@ I'm Alex a Software Developer from Germany 🇩🇪 - I love building web-based 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#7204](https://github.com/coollabsio/coolify/issues/7204) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-2. ❗ Opened issue [#7204](https://github.com/coollabsio/coolify/issues/7204) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-3. 🎉 Merged PR [#183](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/183) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+1. 🗣 Commented on [#7204](https://github.com/coollabsio/coolify/issues/7204#issuecomment-3521304802) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+2.  Labeled issue [#7204](https://github.com/coollabsio/coolify/issues/7204) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+3. ❗ Opened issue [#7204](https://github.com/coollabsio/coolify/issues/7204) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
 4. 🎉 Merged PR [#182](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/182) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
 5. 🎉 Merged PR [#180](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/180) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
 <!--END_SECTION:activity-->
