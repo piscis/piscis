@@ -48,11 +48,11 @@ I'm Alex a Software Developer from Germany 🇩🇪 - I love building web-based 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7204](https://github.com/coollabsio/coolify/issues/7204#issuecomment-3521304802) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-2.  Labeled issue [#7204](https://github.com/coollabsio/coolify/issues/7204) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-3. ❗ Opened issue [#7204](https://github.com/coollabsio/coolify/issues/7204) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-4. 🎉 Merged PR [#182](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/182) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-5. 🎉 Merged PR [#180](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/180) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+1. 💪 Opened PR [#7258](undefined) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+2. 💪 Opened PR [#7256](undefined) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+3. 🗣 Commented on [#7204](https://github.com/coollabsio/coolify/issues/7204#issuecomment-3521304802) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+4.  Labeled issue [#7204](https://github.com/coollabsio/coolify/issues/7204) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+5. ❗ Opened issue [#7204](https://github.com/coollabsio/coolify/issues/7204) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
 <!--END_SECTION:activity-->
 
 ----
