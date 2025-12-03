@@ -48,11 +48,11 @@ I'm Alex a Software Developer from Germany 🇩🇪 - I love building web-based 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#188](https://github.com/datopian/giftless/issues/188#issuecomment-3549431483) in [datopian/giftless](https://github.com/datopian/giftless)
-2. 💪 Opened PR [#7258](undefined) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-3. 💪 Opened PR [#7256](undefined) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-4. 🗣 Commented on [#7204](https://github.com/coollabsio/coolify/issues/7204#issuecomment-3521304802) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-5.  Labeled issue [#7204](https://github.com/coollabsio/coolify/issues/7204) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+1. ❌ Merged PR [#187](undefined) in [datopian/giftless](https://github.com/datopian/giftless)
+2. ❌ Merged PR [#150](undefined) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+3. 💪 Opened PR [#150](undefined) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+4. 🗣 Commented on [#188](https://github.com/datopian/giftless/issues/188#issuecomment-3549431483) in [datopian/giftless](https://github.com/datopian/giftless)
+5. 💪 Opened PR [#7258](undefined) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
 <!--END_SECTION:activity-->
 
 ----
