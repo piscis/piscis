@@ -48,8 +48,8 @@ I'm Alex a Software Developer from Germany 🇩🇪 - I love building web-based 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7258](https://github.com/coollabsio/coolify/pull/7258) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-2. ❌ Merged PR [#150](undefined) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
+1. 🎉 Merged PR [#7256](https://github.com/coollabsio/coolify/pull/7256) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+2. 🎉 Merged PR [#7258](https://github.com/coollabsio/coolify/pull/7258) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
 3. 💪 Opened PR [#150](undefined) in [piscis/nuxt-quasar-boilerplate](https://github.com/piscis/nuxt-quasar-boilerplate)
 4. 🗣 Commented on [#188](https://github.com/datopian/giftless/issues/188#issuecomment-3549431483) in [datopian/giftless](https://github.com/datopian/giftless)
 5. 💪 Opened PR [#7258](undefined) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
