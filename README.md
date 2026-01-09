@@ -2,8 +2,8 @@
 
 I'm Alex a Software Developer from Germany 🇩🇪 - I love building web-based applications in general with PHP, Typescript, VueJS, NodeJS, Nuxt4.
 
-- :books: I’m currently learning new stuff about PayloadCMS, Cursor AI-driven DEV, ArCore
-- :bowtie: *2026 Goals:* Contribute to Open Source projects, continue my Indi-Hacker project journey, learn about AI dev workflows, ikigai, 
+- :books: I’m currently learning new stuff about PayloadCMS, Cursor, AI-driven DEV, ArCore
+- :bowtie: *2026 Goals:* Contribute to OpenSource projects, continue my Indi-Hacker project journey, learn AI dev workflows, ikigai
 - :building_construction: I’m currently working on PHP, Nuxt4, VueJS, Cloudflare Worker Apps, React and ReactNative applications
 - ⚒️ Focus on building my own products as an indie hacker
 
