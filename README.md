@@ -58,7 +58,7 @@ I'm Alex a Software Developer from Germany 🇩🇪 - I love building web-based 
 ----
 
 ### ✨ GitHub Stats
-  <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.piscis.dev/?username=piscis&show_icons=true&hide_border=true&count_private=true&show_icons=true" />
+  <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.piscis.dev/api/?username=piscis&show_icons=true&hide_border=true&count_private=true&show_icons=true" />
 
 [![GitHub Streak](https://github-readme-streak-stats.piscis.dev/?user=piscis&theme=light&card_width=380)](https://github.com/piscis)
 
