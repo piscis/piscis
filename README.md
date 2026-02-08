@@ -48,11 +48,11 @@ I'm Alex a Software Developer from Germany 🇩🇪 - I love building web-based 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#127](https://github.com/all3dp/all3dp-eblast-templates/pull/127) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
-2. ❌ Closed PR [#120](https://github.com/all3dp/all3dp-eblast-templates/pull/120) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
-3. ❌ Closed PR [#123](https://github.com/all3dp/all3dp-eblast-templates/pull/123) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
-4. ❌ Closed PR [#105](https://github.com/all3dp/all3dp-eblast-templates/pull/105) in [all3dp/all3dp-eblast-templates](https://github.com/all3dp/all3dp-eblast-templates)
-5. 🗣 Commented on [#451](https://github.com/Yoast/duplicate-post/pull/451#issuecomment-3833362709) in [Yoast/duplicate-post](https://github.com/Yoast/duplicate-post)
+1. ❌ Closed PR [#103](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/103) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
+2. ❌ Closed PR [#98](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/98) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
+3. ❌ Closed PR [#107](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/107) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
+4. ❌ Closed PR [#99](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/99) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
+5. ❌ Closed PR [#106](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/106) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
 <!--END_SECTION:activity-->
 
 ----
