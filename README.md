@@ -48,8 +48,8 @@ I'm Alex a Software Developer from Germany 🇩🇪 - I love building web-based 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#188](https://github.com/datopian/giftless/issues/188#issuecomment-4077805001) in [datopian/giftless](https://github.com/datopian/giftless)
-2. ❌ Closed PR [#98](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/98) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
+1. 🔒 Closed issue [#3](https://github.com/piscis/nitro-web-redirect/issues/3) in [piscis/nitro-web-redirect](https://github.com/piscis/nitro-web-redirect)
+2. 🗣 Commented on [#188](https://github.com/datopian/giftless/issues/188#issuecomment-4077805001) in [datopian/giftless](https://github.com/datopian/giftless)
 3. ❌ Closed PR [#107](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/107) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
 4. ❌ Closed PR [#99](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/99) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
 5. ❌ Closed PR [#106](https://github.com/piscis/nuxt3-nestjs-boilerplate/pull/106) in [piscis/nuxt3-nestjs-boilerplate](https://github.com/piscis/nuxt3-nestjs-boilerplate)
