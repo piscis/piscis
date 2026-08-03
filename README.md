@@ -48,11 +48,11 @@ I'm Alex a Software Developer from Germany 🇩🇪 - I love building web-based 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#228](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/228) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-2. 🎉 Merged PR [#229](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/229) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-3. ℹ️ Assigned PR [#229](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/229) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-4. 🎉 Merged PR [#227](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/227) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
-5. ℹ️ Assigned PR [#227](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/227) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+1. 🚀 Published release [v2.8.3](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/releases/tag/2.8.3) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+2. 🚀 Published release [v2.8.2](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/releases/tag/2.8.2) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+3. 🎉 Merged PR [#238](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/238) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+4. 💪 Opened PR [#238](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/pull/238) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
+5. 🚀 Published release [v2.8.1](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel/releases/tag/2.8.1) in [piscis/fritzbox-cloudflare-dyndns-vercel](https://github.com/piscis/fritzbox-cloudflare-dyndns-vercel)
 <!--END_SECTION:activity-->
 
 ----
