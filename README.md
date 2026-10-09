@@ -22,9 +22,7 @@ I build full-stack TypeScript apps end-to-end — from the Cloudflare edge to th
 
 ### Core stack
 
-[![Core stack](https://skillicons.dev/icons?i=ts,php,vue,nuxtjs,react,nodejs,cloudflare,postgres,docker,wordpress&perline=10)](https://github.com/piscis)
-
-oRPC · Drizzle · Expo · Turborepo · MCP
+![TypeScript, PHP, Vue.js, Nuxt, React, React Native / Expo, Node.js, WordPress, Cloudflare, Cloudflare Workers, PostgreSQL, Drizzle, Docker, Turborepo, Playwright, MCP](stack-dark.svg)
 
 ### Contact
 
